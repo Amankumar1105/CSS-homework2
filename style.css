@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    /* border: 2px solid black; */
+    /* margin: 8px 30px; */
+    padding: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.7));
+    padding-left: 40px;
+}
+
+.subNav{
+    display: inline-block;
+    /* border: 2px solid blue; */
+    margin: 15px 50px;
+    padding: 8px 20px;
+    color: white;
+}
+
+.home{
+    background-color: white;
+    color: black;
+}
+
+.image{
+    /* border: 2px solid black;
+    width: 100%;
+    height: 40%;
+    background-color: blue; */
+
+    /* border: 2px solid black; */
+    /* height: 500px;
+    background-image: url(https://e0.pxfuel.com/wallpapers/850/763/desktop-wallpaper-construction-site-construction-work.jpg); */
+
+    background-image: url(https://e0.pxfuel.com/wallpapers/850/763/desktop-wallpaper-construction-site-construction-work.jpg);
+    height: 500px;
+    width: 100%;
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.anotherImage{
+    /* border: 2px solid black; */
+    height: 500px;
+    width: 100%;
+}
+
+/* .subImages{
+    display: inline-block;
+    border: 2px solid black; */
+    /* width: 410px;
+    height: 425px;
+    margin: 28px; */
+
+    /* width: 29%;
+    height: 90%;
+    margin: 2%;
+} */
+
+/* img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    
+} */
+
+.anotherImage img{
+    display: inline-block;
+    width: 29%;
+    height: 90%;
+    margin: 2%;
+}
+
+.last{
+    height: 500px;
+    width: 100%;
+    /* border: 2px solid black; */
+    /* margin: 15px; */
+    padding: 2%;
+    background-color: black;
+}
+
+.final{
+    display: inline-block;
+}
+
+/* .ptag{
+    border: 2px solid black;
+    height: 80%;
+    width: 40%;
+    margin: 2%;
+} */
+
+.ptag {
+    /* padding-top: 105px; */
+    /* margin: 2%; */
+
+    width: 45%;
+    color: white;
+    /* margin: 2%; */
+    /* background-color: black; */
+}
+
+.lastImage{
+    width: 45%;
+    /* height: 80%; */
+    margin: 1%;
+}
+
